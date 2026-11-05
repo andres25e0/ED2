@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ED2</string>
+    <string name="back_button">Regresar</string>
+    <string name="screen_unlocked">Pantalla no bloqueada</string>
+    <string name="sensor_value_default">Valor del sensor: 0 cm</string>
+    <string name="show_block_count">Mostrar bloqueos</string>
+</resources>
